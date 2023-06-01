@@ -1,0 +1,24 @@
+img{
+    width: 100%;
+    height: auto;
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+}
+
+p{
+    color: rgb(255, 255, 255);
+}
+
+a{
+    background-color: rgb(176, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+a:hover{
+    background-color: rgb(176, 0, 0);
+    color: rgb(255, 255, 255);
+    border: 1.5px solid rgb(255, 255, 255);
+}
